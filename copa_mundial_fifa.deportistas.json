@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "663fc77d979709b62617db9a"
+  },
+  "nombre": "David Ospina",
+  "equipo": "Colombia",
+  "posicion": "Portero"
+},
+{
+  "_id": {
+    "$oid": "663fc77d979709b62617db9b"
+  },
+  "nombre": "Santiago Arias",
+  "equipo": "Colombia",
+  "posicion": "Defensa"
+},
+{
+  "_id": {
+    "$oid": "663fc77d979709b62617db9c"
+  },
+  "nombre": "Yerry Mina",
+  "equipo": "Colombia",
+  "posicion": "Defensa"
+},
+{
+  "_id": {
+    "$oid": "663fc77d979709b62617db9d"
+  },
+  "nombre": "Davinson Sánchez",
+  "equipo": "Colombia",
+  "posicion": "Defensa"
+},
+{
+  "_id": {
+    "$oid": "663fc77d979709b62617db9e"
+  },
+  "nombre": "Willian Tesillo",
+  "equipo": "Colombia",
+  "posicion": "Defensa"
+},
+{
+  "_id": {
+    "$oid": "663fc77d979709b62617db9f"
+  },
+  "nombre": "Wilmar Barrios",
+  "equipo": "Colombia",
+  "posicion": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "663fc77d979709b62617dba0"
+  },
+  "nombre": "Juan Cuadrado",
+  "equipo": "Colombia",
+  "posicion": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "663fc77d979709b62617dba1"
+  },
+  "nombre": "Mateus Uribe",
+  "equipo": "Colombia",
+  "posicion": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "663fc77d979709b62617dba2"
+  },
+  "nombre": "James Rodríguez",
+  "equipo": "Colombia",
+  "posicion": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "663fc77d979709b62617dba3"
+  },
+  "nombre": "Luis Diaz",
+  "equipo": "Colombia",
+  "posicion": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "663fc77d979709b62617dba4"
+  },
+  "nombre": "Duvan Zapata",
+  "equipo": "Colombia",
+  "posicion": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "663fc7d4979709b62617dba5"
+  },
+  "nombre": "Manuel Neuer",
+  "equipo": "Alemania",
+  "posicion": "Portero"
+},
+{
+  "_id": {
+    "$oid": "663fc7d4979709b62617dba6"
+  },
+  "nombre": "Joshua Kimmich",
+  "equipo": "Alemania",
+  "posicion": "Defensa"
+},
+{
+  "_id": {
+    "$oid": "663fc7d4979709b62617dba7"
+  },
+  "nombre": "Mats Hummels",
+  "equipo": "Alemania",
+  "posicion": "Defensa"
+},
+{
+  "_id": {
+    "$oid": "663fc7d4979709b62617dba8"
+  },
+  "nombre": "Antonio Rüdiger",
+  "equipo": "Alemania",
+  "posicion": "Defensa"
+},
+{
+  "_id": {
+    "$oid": "663fc7d4979709b62617dba9"
+  },
+  "nombre": "Leon Goretzka",
+  "equipo": "Alemania",
+  "posicion": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "663fc7d4979709b62617dbaa"
+  },
+  "nombre": "Toni Kroos",
+  "equipo": "Alemania",
+  "posicion": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "663fc7d4979709b62617dbab"
+  },
+  "nombre": "Kai Havertz",
+  "equipo": "Alemania",
+  "posicion": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "663fc7d4979709b62617dbac"
+  },
+  "nombre": "Thomas Müller",
+  "equipo": "Alemania",
+  "posicion": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "663fc7d4979709b62617dbad"
+  },
+  "nombre": "Leroy Sané",
+  "equipo": "Alemania",
+  "posicion": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "663fc7d4979709b62617dbae"
+  },
+  "nombre": "Timo Werner",
+  "equipo": "Alemania",
+  "posicion": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "663fc7d4979709b62617dbaf"
+  },
+  "nombre": "Serge Gnabry",
+  "equipo": "Alemania",
+  "posicion": "Delantero"
+}]

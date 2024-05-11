@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "663fcde2979709b62617dbb2"
+  },
+  "equipo_local": "Alemania",
+  "equipo_visitante": "Colombia",
+  "fecha": {
+    "$date": "2024-06-15T00:00:00.000Z"
+  },
+  "hora": "18:00",
+  "estadio": "Estadio Nacional de Alemania",
+  "precios": {
+    "vip": 300,
+    "preferencial": 200,
+    "general": 100
+  }
+},
+{
+  "_id": {
+    "$oid": "663fcde2979709b62617dbb3"
+  },
+  "equipo_local": "Colombia",
+  "equipo_visitante": "Argentina",
+  "fecha": {
+    "$date": "2024-06-22T00:00:00.000Z"
+  },
+  "hora": "17:30",
+  "estadio": "Estadio Nacional de Colombia",
+  "precios": {
+    "vip": 350,
+    "preferencial": 250,
+    "general": 150
+  }
+},
+{
+  "_id": {
+    "$oid": "663fce45979709b62617dbb4"
+  },
+  "equipo_local": "Brasil",
+  "equipo_visitante": "Alemania",
+  "fecha": {
+    "$date": "2024-07-05T00:00:00.000Z"
+  },
+  "hora": "20:00",
+  "estadio": "Estadio Nacional de Brasil",
+  "precios": {
+    "vip": 400,
+    "preferencial": 300,
+    "general": 200
+  }
+},
+{
+  "_id": {
+    "$oid": "663fce45979709b62617dbb5"
+  },
+  "equipo_local": "Argentina",
+  "equipo_visitante": "Colombia",
+  "fecha": {
+    "$date": "2024-07-12T00:00:00.000Z"
+  },
+  "hora": "19:30",
+  "estadio": "Estadio Nacional de Argentina",
+  "precios": {
+    "vip": 380,
+    "preferencial": 280,
+    "general": 180
+  }
+},
+{
+  "_id": {
+    "$oid": "663fce45979709b62617dbb6"
+  },
+  "equipo_local": "Uruguay",
+  "equipo_visitante": "Chile",
+  "fecha": {
+    "$date": "2024-07-19T00:00:00.000Z"
+  },
+  "hora": "18:45",
+  "estadio": "Estadio Nacional de Uruguay",
+  "precios": {
+    "vip": 320,
+    "preferencial": 220,
+    "general": 120
+  }
+}]

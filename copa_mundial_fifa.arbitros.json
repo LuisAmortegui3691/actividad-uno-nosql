@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "663fcff4979709b62617dbba"
+  },
+  "nombre": "John Doe",
+  "pais": "Inglaterra",
+  "experiencia": "10 años"
+},
+{
+  "_id": {
+    "$oid": "663fcff4979709b62617dbbb"
+  },
+  "nombre": "Maria Smith",
+  "pais": "España",
+  "experiencia": "8 años"
+},
+{
+  "_id": {
+    "$oid": "663fcff4979709b62617dbbc"
+  },
+  "nombre": "Javier Pérez",
+  "pais": "Argentina",
+  "experiencia": "12 años"
+},
+{
+  "_id": {
+    "$oid": "663fcff4979709b62617dbbd"
+  },
+  "nombre": "Anna Müller",
+  "pais": "Alemania",
+  "experiencia": "6 años"
+},
+{
+  "_id": {
+    "$oid": "663fcff4979709b62617dbbe"
+  },
+  "nombre": "Lucas Fernández",
+  "pais": "Brasil",
+  "experiencia": "9 años"
+}]

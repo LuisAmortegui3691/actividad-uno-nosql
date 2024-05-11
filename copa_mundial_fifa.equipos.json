@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "663fccea979709b62617dbb0"
+  },
+  "equipo": "Colombia",
+  "entrenador": "Reinaldo Rueda"
+},
+{
+  "_id": {
+    "$oid": "663fccea979709b62617dbb1"
+  },
+  "equipo": "Alemania",
+  "entrenador": "Joachim Löw"
+},
+{
+  "_id": {
+    "$oid": "663fce7e979709b62617dbb7"
+  },
+  "nombre": "Selección Española de Fútbol",
+  "entrenador": "Luis Enrique",
+  "pais": "España"
+},
+{
+  "_id": {
+    "$oid": "663fce82979709b62617dbb8"
+  },
+  "nombre": "Selección Brasileña de Fútbol",
+  "entrenador": "Tite",
+  "pais": "Brasil"
+},
+{
+  "_id": {
+    "$oid": "663fce86979709b62617dbb9"
+  },
+  "nombre": "Selección Francesa de Fútbol",
+  "entrenador": "Didier Deschamps",
+  "pais": "Francia"
+}]
